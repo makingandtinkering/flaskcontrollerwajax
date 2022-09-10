@@ -37,7 +37,7 @@ This project uses AJAX to remove reloading of the webpage on every input. This t
 * [flask==2.0.1](https://flask.palletsprojects.com/en/2.0.x/)
 * HTML [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * Javascript
-* [jQuery]https://jquery.com/)
+* [jQuery](https://jquery.com/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
