@@ -1,5 +1,5 @@
   $(function() {
-    $('a.command').bind('click', function() {
+    $('a.command').on('click', function() {
       $.getJSON($SCRIPT_ROOT + '/_command', {
         command: $(this).attr('id')
       }, function(data) {
